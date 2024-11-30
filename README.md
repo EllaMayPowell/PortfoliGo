@@ -1,2 +1,2 @@
 # PortfoliGo
-Portfolio AI app 
+Agnetic Finance App
