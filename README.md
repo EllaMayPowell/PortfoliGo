@@ -1,0 +1,2 @@
+# PortfoliGo
+Portfolio AI app 
